@@ -1,0 +1,10 @@
+12:30:10.022 [main] FATAL Alpha.Demo - fatal error
+12:30:10.027 [main] ERROR Alpha.Demo - error log
+12:30:30.862 [main] DEBUG Alpha.Demo - debugging mode
+12:30:30.868 [main] INFO  Alpha.Demo - object present
+12:30:30.869 [main] FATAL Alpha.Demo - fatal error
+12:30:30.869 [main] ERROR Alpha.Demo - error log
+12:31:05.477 [main] DEBUG Alpha.Demo - debugging mode
+12:31:05.483 [main] INFO  Alpha.Demo - object present
+12:31:05.484 [main] FATAL Alpha.Demo - fatal error
+12:31:05.484 [main] ERROR Alpha.Demo - error log
